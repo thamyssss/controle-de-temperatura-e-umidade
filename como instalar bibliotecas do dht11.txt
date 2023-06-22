@@ -1,0 +1,12 @@
+Para instalar as bibliotecas do DHT11:
+
+https://github.com/adafruit/DHT-sensor-library
+https://github.com/adafruit/Adafruit_Sensor
+
+Ir para: Sketch > Include Library > Manage Libraries
+
+Procurar por “DHT” e instalar a biblioteca "DHT sensor library" da Adafruit.
+Depois, procurar por “Adafruit Unified Sensor” e instalar a biblioteca.
+
+
+
